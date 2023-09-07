@@ -10,6 +10,7 @@ The project is built using the following technologies:
 •	JavaScript: Used for interactive functionality.
 •	PHP: Used for server-side scripting and database integration.
 •	MySQL: Used as the database management system.
+
 Usage
 Once the project is set up and running, users can access the website and perform the following actions:
 •	Browse books: Users can explore the collection of second-hand books, view book details, and add books to the cart.
